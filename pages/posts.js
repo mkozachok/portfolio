@@ -3,8 +3,8 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 
-import thumbCoffee from '../public/images/posts/coffee.jpg'
-import thumbCoffeeStuff from '../public/images/posts/coffee-stuff.jpg'
+const thumbCoffee = '/images/posts/coffee.jpg'
+const thumbCoffeeStuff = '/images/posts/coffee-stuff.jpg'
 
 const Posts = () => {
   return (

@@ -3,7 +3,9 @@ import { WorkGridItem } from '../components/grid-item'
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
 
-import SomeCoolWork1 from '../public/images/diderot.jpg'
+// import SomeCoolWork1 from '../public/images/diderot.jpg'
+
+const SomeCoolWork1 = '/images/diderot.jpg'
 
 const Works = () => {
   return (

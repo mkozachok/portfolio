@@ -21,8 +21,8 @@ import Layout from '../components/layouts/article'
 
 import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub } from 'react-icons/io5'
 
-import thumbCoffee from '../public/images/posts/coffee.jpg'
-import thumbCoffeeStuff from '../public/images/posts/coffee-stuff.jpg'
+const thumbCoffee = '../public/images/posts/coffee.jpg'
+const thumbCoffeeStuff  = '../public/images/posts/coffee-stuff.jpg'
 
 const Page = () => {
   return (
